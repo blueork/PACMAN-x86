@@ -1,6 +1,8 @@
 # PACMAN-x86
 PACMAN 🎮 in the x86 Assembly Language using the Irvine Library
 
+![start_screen](https://github.com/blueork/PACMAN-x86/assets/114741623/491db6e9-3c4f-43b2-baa2-214cc0d64245)
+
 # The Game
 A simple take on the PACMAN game 🎮 . Written in the x86 Assembly Language using the Irvine-32 Library for the graphics, it aims to recreate the basic gameplay of the retro game, PACMAN. 
 It consists of three levels, each level having a greater number of ghosts and increasing in the difficulty level. The player starts of with three lives and finishes the game by collecting all the coins in each level. Collisions with the ghosts leads to the loss of lives, wherein colliding with the ghosts four times results in game over. 
