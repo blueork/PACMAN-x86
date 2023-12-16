@@ -8,7 +8,7 @@ A simple take on the PACMAN game 🎮 . Written in the x86 Assembly Language usi
 The game has a simple color scheme and uses a Retro Aesthetic Scheme paying a tribute to the games 🎮 of the Retro Era. 
 
 # The Implementation
-Written in the x86 Assembly Language using the Irvine-32 Library for the graphics and MASM as the assembler. The game utilizes the basic concepts of PROCS, Stacks, Arrays and the functions for graphics provided by the Irvine-32 Library.   
+Written in the x86 Assembly Language, it uses the Irvine-32 Library for the graphics and MASM as the assembler. The game utilizes the basic concepts of PROCS, Stacks, Arrays and the functions for graphics provided by the Irvine-32 Library.   
 
 # How to Run the Game
 This section is under works
