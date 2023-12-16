@@ -1,7 +1,7 @@
 # PACMAN-x86
 PACMAN 🎮 in the x86 Assembly Language using the Irvine Library
 
-![start_screen](https://github.com/blueork/PACMAN-x86/assets/114741623/491db6e9-3c4f-43b2-baa2-214cc0d64245)
+<img src = "https://github.com/blueork/PACMAN-x86/assets/114741623/491db6e9-3c4f-43b2-baa2-214cc0d64245" alt = "Game Start Screen" width = "700"> 
 
 # The Game
 A simple take on the PACMAN game 🎮 . Written in the x86 Assembly Language using the Irvine-32 Library for the graphics, it aims to recreate the basic gameplay of the retro game, PACMAN. 
