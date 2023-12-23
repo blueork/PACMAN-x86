@@ -8,7 +8,7 @@ A simple take on the PACMAN game 🎮 . Written in the x86 Assembly Language usi
 
 <img src = "https://github.com/blueork/PACMAN-x86/assets/114741623/fefd29ec-5735-4b86-a425-ce9c568f9666" alt = "Level One Start Screen" width = "600">
 
-It consists of three levels, each level having a greater number of ghosts and increasing in the difficulty level. The player starts of with three lives and finishes the game by collecting all the coins 🪙 in each level. Collisions with the ghosts leads to the loss of lives ♥️, wherein colliding with the ghosts 👻 four times results in game over. 
+It consists of three levels, each level having a greater number of ghosts 👻 and increasing in the difficulty level. The player starts of with three lives ❤️❤️❤️ and finishes the game by collecting all the coins 🪙 in each level. Collisions with the ghosts 👻 leads to the loss of lives 💔, wherein colliding with the ghosts 👻 four times results in game over. 
 
 <img src = "https://github.com/blueork/PACMAN-x86/assets/114741623/8ccc96c8-ce61-4b84-876e-100e58120473" alt = "Level One Maze Screen" width = "600">
 
