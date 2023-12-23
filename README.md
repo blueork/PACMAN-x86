@@ -20,5 +20,5 @@ The game has a simple color scheme and uses a Retro Aesthetic Scheme paying a tr
 Written in the x86 Assembly Language, it uses the Irvine32 Library for the graphics and MASM as the assembler. The game utilizes the basic concepts of PROCS, Stacks, Arrays and the functions for graphics provided by the Irvine32 Library.   
 
 # How to Run the Game
-This section is under construction.
+Simpy download and run the "Proj.exe" executable. Ensure that the "Proj.exe", the music files and the "output.txt" file are placed in the same directory, otherwise the music won't play and the Hall of Fame won't work as it is supposed to. 
 
